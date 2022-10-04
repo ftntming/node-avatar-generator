@@ -18,7 +18,8 @@
   "author": "kubal5003",
   "license": "MIT",
   "dependencies": {
-    "gm": "^1.17.0"
+    "gm": "^1.17.0",
+    "uuid": "8.3.2"
   },
   "devDependencies": {
     "chai": "^3.0.0",
